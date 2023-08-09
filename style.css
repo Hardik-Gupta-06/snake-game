@@ -1,0 +1,14 @@
+canvas {
+    border: 10px solid #FFF01F;
+    background-color: black;
+    margin: 30px 250px;
+}
+body {
+    background-color: #6D5D6E;
+}
+button {
+    position: absolute;
+    left: 700px;
+    top: 400px;
+    font-size: 30px;
+}
